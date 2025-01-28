@@ -1,0 +1,8 @@
+for using direct sampling , first you need to put EXtIO_RTL_SDR_u8.dll to Document folder in your pc ,
+then run sdruno . now you need to activate direct sampling mode bu click in keyboard :
+
+  (((  SHIFT+H    )))
+
+ now you see window box setting pop up now select direct sampling mode Q.
+
+
